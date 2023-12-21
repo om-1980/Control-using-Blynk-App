@@ -31,3 +31,5 @@ The Blynk app is a powerful tool for controlling various aspects of your home au
 
 # Circuit Diagram
 ![circuit](https://github.com/om-1980/Control-using-Blynk-App/assets/111452597/d1e57ec6-6f14-4618-a604-d9eee46a2e71)
+![image](https://github.com/om-1980/Control-using-Blynk-App/assets/111452597/98ec15b3-6c06-4674-ae5f-089afeb42c92)
+![app_ss](https://github.com/om-1980/Control-using-Blynk-App/assets/111452597/5ecc429d-e00b-412b-ae3e-11da4a0024fa)
